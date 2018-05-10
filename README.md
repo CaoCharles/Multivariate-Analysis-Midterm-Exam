@@ -1,2 +1,2 @@
-# Multivariate-Analysis-Midterm-Exam
-多變量分析 - 期中報告
+# Multivariate-Analysis-Midterm
+I did some practice for the MMA midterm quiz with my classmate Cao. Here is record for out learning.

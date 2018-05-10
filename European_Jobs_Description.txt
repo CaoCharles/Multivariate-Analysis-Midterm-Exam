@@ -1,4 +1,4 @@
-Description: 
+Description:
 The data are the percentage employed in different industries in Europe countries during 1979. 
 
 Number of cases: 26
